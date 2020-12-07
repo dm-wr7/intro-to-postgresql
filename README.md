@@ -5,9 +5,13 @@ A great resource: https://www.postgresqltutorial.com/
 Code to run on https://postgres.devmountain.com/
 
 -- CREATE TABLE star_wars_character (
+
 --   star_wars_character_id SERIAL PRIMARY KEY,
+
 --   name VARCHAR(250),
+
 --   species VARCHAR(250)
+
 -- );
 
 -- INSERT INTO star_wars_character (name, species)
